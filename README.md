@@ -13,10 +13,10 @@ A modern, real-time video calling application built with Next.js and WebRTC, ena
 
 ## 🛠️ Technologies Used
 
-- **Next.js 14** - React framework for production-grade applications
+- **Next.js 15** - React framework for production-grade applications
 - **WebRTC** - Real-time communication protocol
 - **Tailwind CSS** - For modern, responsive styling
-- **JavaScript/TypeScript** - Programming languages
+- **JavaScript** - Programming languages
 
 ## 📋 Prerequisites
 
